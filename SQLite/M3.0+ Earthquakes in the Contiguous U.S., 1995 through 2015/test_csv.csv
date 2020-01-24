@@ -1,0 +1,15 @@
+state,num_quakes,avg_mag,min_mag,max_mag
+California,6794,3.42,3,7.1
+"Baja California, Mexico",2666,3.46,3,7.2
+Oklahoma,1710,3.27,3,5.7
+Other,1407,3.75,3,6.9
+Washington,1164,3.22,3,6.8
+Nevada,877,3.48,3,6.2
+Wyoming,687,3.36,3,5.3
+Oregon,389,3.38,3,4.9
+Montana,358,3.36,3,5.6
+Idaho,274,3.39,3,5.3
+Utah,258,3.33,3,4.7
+Colorado,149,3.37,3,5.3
+New Mexico,131,3.43,3,5.3
+Arizona,77,3.35,3,5.1
